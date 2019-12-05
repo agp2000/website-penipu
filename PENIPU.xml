@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>News RSS</title>
+<description>Latest 10 news</description>
+<item>
+<title>
+<![CDATA[
+Website ini adalah penipu.
+]]>
+</title>
+<link>
+https://example.com
+</link>
+<description>
+<![CDATA[
+Website ini adalah penipu.
+]]>
+</description>
+<pubDate>Thu, 05 Dec 2019 02:14:37 +0000</pubDate>
+<enclosure url="https://raw.githubusercontent.com/agp2000/website-penipu/master/ScamAlert.png" length="421358" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
